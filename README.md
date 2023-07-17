@@ -1,3 +1,6 @@
+# Student : Erin Swan-Siegel
+# Date : July 16, 2023
+
 # Matplotlib and pyplot
 
 Complete the tasks in the Python Notebook in this repository.
